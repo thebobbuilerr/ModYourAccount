@@ -1,0 +1,15 @@
+target
+.snfoundry_cache/
+node_modules
+build
+dist
+*.tsbuildinfo
+/book
+/index.html
+/docs/tests-starknet-helpers
+/docs/starknet-account
+/docs/starknet-module
+/docs/starknet-module-sessionkey
+/.env.*
+/!.env.template.json
+wip
